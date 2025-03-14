@@ -17,3 +17,22 @@ Beyond being a SOC analyst , I have technical expertise cloud platforms (AWS & A
 'm excited to leverage my skills and experience to help organizations protect themselves against evolving cyber threats."
 
 I am looking to apply my Cybersecurity skills in a security-driven organization while leveraging automation to make compliance more scalable, efficient, and proactive.
+
+
+As a SOC Analyst, I've developed hands-on experience in:
+
+- Monitoring and analyzing security event logs
+- Identifying and responding to potential security threats
+- Conducting incident response and remediation
+- Developing and implementing security procedures and protocols
+- Collaborating with cross-functional teams to enhance security posture
+
+
+
+
+
+
+
+
+
+
